@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">密码小管家</string>
+    <string name="type">类型：</string>
+    <string name="account">账号：</string>
+    <string name="password">密码：</string>
+    <string name="delete">删除密码</string>
+    <string name="save">保存密码</string>
+    <string name="update">修改密码</string>
+    <string name="import_password">导入密码</string>
+    <string name="export_password">导出密码</string>
+    <string name="help">使用帮助</string>
+    <string name="about">关于软件</string>
+    <string name="exit">退出软件</string>
+    <string name="search_value">请输入密码类型来检索：</string>
+    <string name="file_name">请输入文件名：</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+</resources>
